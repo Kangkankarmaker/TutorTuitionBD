@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tutor &amp; Tuition BD</string>
+
+
+    <string name="input_error_email">Invalid E_Mail</string>
+    <string name="input_error_email_invalid">Invalid E_Mail</string>
+    <string name="input_error_password">Password Error</string>
+    <string name="input_error_password_length">Password Length Must be up to 6</string>
+    <string name="input_error_name">Please Enter Your Name</string>
+    <string name="input_error_ins">Please Enter Your Institute</string>
+    <string name="input_error_phone">Please Enter A Phone</string>
+    <string name="input_error_phone_invalid">Phone Number must be 11 Digit</string>
+
+
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "646038890935",
+    "firebase_url": "https://tutortuitionbd.firebaseio.com",
+    "project_id": "tutortuitionbd",
+    "storage_bucket": "tutortuitionbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646038890935:android:c94a36bb2e82928f",
+        "android_client_info": {
+          "package_name": "com.kangkan.developer.tutortuitionbd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646038890935-di6puo1i9c9uqbqntjjski1tsfbfagsa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kangkan.developer.tutortuitionbd",
+            "certificate_hash": "e01454c47537991429899b77d604aa1e6545a3f6"
+          }
+        },
+        {
+          "client_id": "646038890935-027204fe5lg0oimdsp3l7omekf3ic76n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8DkB9_rf4LmkB9N0o6whQYwISGS68PQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646038890935-027204fe5lg0oimdsp3l7omekf3ic76n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
